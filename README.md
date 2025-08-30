@@ -92,28 +92,27 @@ Enter your choice: 1
 ## 📊 Project Results  
 
 ### 🔹 Result 1 – Adding and Viewing Tasks  
-![Result Screenshot 1](Result 1 Screenshot.jpg)  
+![Result 1](Result%201%20Screenshot.JPG)  
 
 ### 🔹 Result 2 – Editing and Completing Tasks  
-![Result Screenshot 2](Result 2 Screenshot.jpg)  
+![Result 2](Result%202%20Screenshot.JPG)  
 
 ### 🔹 Result 3 – Task Filtering by Category  
-![Result Screenshot 3](Result 3 Screenshot.jpg)  
+![Result 3](Result%203%20Screenshot.JPG)  
+ 
 
 ---
 
 ## 📖 About the Internship  
 
-This **4-week internship** provided practical exposure to **Python programming and CLI-based application development**. The program included:  
+This **1-Month internship** provided practical exposure to **Python programming and CLI-based application development**. The program included:  
 
-- **Week 1**: Introduction to Python, File Handling, and JSON storage  
-- **Week 2**: CLI Menus, User Input Handling, and Task Management Features  
-- **Week 3**: Implementing Task Categories, Filtering, and Editing Options  
-- **Week 4**: Final Enhancements, Documentation, and Project Submission  
+- Introduction to Python, File Handling, and JSON storage  
+- CLI Menus, User Input Handling, and Task Management Features  
+- Implementing Task Categories, Filtering, and Editing Options  
+- Final Enhancements, Documentation, and Project Submission  
 
-✅ **Successful completion** required:  
-- Active participation in weekly tasks  
-- Development of a **capstone project** (To-Do List Application)  
+✅ **Successful completion** required:    
 - Submission of **project documentation and code**  
 
 ---
