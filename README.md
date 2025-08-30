@@ -91,13 +91,13 @@ Enter your choice: 1
 
 ## 📊 Project Results  
 
-### 🔹 Result 1 – Adding and Viewing Tasks  
+### 🔹 Result 1 – Adding Tasks 
 ![Result 1](Result%201%20Screenshot.JPG)  
 
-### 🔹 Result 2 – Editing and Completing Tasks  
+### 🔹 Result 2 – Viewing Tasks  
 ![Result 2](Result%202%20Screenshot.JPG)  
 
-### 🔹 Result 3 – Task Filtering by Category  
+### 🔹 Result 3 – Deleting Tasks  
 ![Result 3](Result%203%20Screenshot.JPG)  
  
 
