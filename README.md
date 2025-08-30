@@ -25,7 +25,7 @@ The goal of this project is to build a **command-line To-Do List Application** w
 
 **Name**: Vivek Chaurasia  
 **Institute**: CoochBehar Government Engineering College  
-**Duration**: 4 Weeks (15th July 2025 – 7th August 2025)  
+**Duration**: 1 Month (1st August 2025 – 30 August 2025)  
 **Role**: Python Developer Intern  
 **Project**: CLI-Based Personal To-Do List Application  
 
@@ -92,13 +92,13 @@ Enter your choice: 1
 ## 📊 Project Results  
 
 ### 🔹 Result 1 – Adding and Viewing Tasks  
-![Result Screenshot 1](result1.png)  
+![Result Screenshot 1](Result 1 Screenshot.jpg)  
 
 ### 🔹 Result 2 – Editing and Completing Tasks  
-![Result Screenshot 2](result2.png)  
+![Result Screenshot 2](Result 2 Screenshot.jpg)  
 
 ### 🔹 Result 3 – Task Filtering by Category  
-![Result Screenshot 3](result3.png)  
+![Result Screenshot 3](Result 3 Screenshot.jpg)  
 
 ---
 
@@ -122,8 +122,4 @@ This **4-week internship** provided practical exposure to **Python programming a
 
 - **Vivek Chaurasia**  
 
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License** – feel free to use and modify it for learning purposes.  
+--- 
