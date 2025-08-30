@@ -26,7 +26,7 @@ The goal of this project is to build a **command-line To-Do List Application** w
 **Name**: Vivek Chaurasia  
 **Institute**: CoochBehar Government Engineering College  
 **Duration**: 1 Month (1st August 2025 – 30 August 2025)  
-**Role**: Python Developer Intern  
+**Role**: Python Programming Intern  
 **Project**: CLI-Based Personal To-Do List Application  
 
 ---
